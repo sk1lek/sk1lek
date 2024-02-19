@@ -6,7 +6,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sk1lek&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/sk1lek)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,html,css,cpp,bash,json,yaml,postgresql,mysql,powershell,arm,markdown&includeNames=true&theme=darkmode
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,html,css,cpp,bash,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true&theme=darkmode
 )](https://github.com/sk1lek)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,bootstrap&includeNames=true&theme=darkmode)](https://github.com/sk1lek)
