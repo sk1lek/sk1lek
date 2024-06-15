@@ -16,7 +16,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/sk1lek)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk1lek&" alt="sk1lek" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sk1lek&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
