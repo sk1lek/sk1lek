@@ -16,8 +16,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/sk1lek)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sk1lek&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sk1lek&theme=iceberg)](https://git.io/streak-stats)
 
 <!--
 **sk1lek/sk1lek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
